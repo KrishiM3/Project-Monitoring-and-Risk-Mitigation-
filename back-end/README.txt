@@ -1,0 +1,2 @@
+As we used AWS lambdas all the functions have the same name so I just left them in their zips to avoid having to rename every function.
+The database has no code as it is non-relational and hosted on AWS.
